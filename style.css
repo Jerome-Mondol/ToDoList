@@ -94,3 +94,12 @@ body {
     color: white;
 }
 
+/* Done status class */
+.done {
+    text-decoration: line-through;
+}
+
+.fa-x {
+    padding: 6px 8px !important;
+}
+ 
