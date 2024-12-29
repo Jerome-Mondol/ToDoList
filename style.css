@@ -37,4 +37,29 @@ body {
     font-size: 40px;
     margin-bottom: 10px;
 }
+/* to do input wrapper */
+.input-wrapper {
+    margin-bottom: 20px;
+}
+
+.input-wrapper input {
+    outline: none;
+    border: 0;
+    background: rgba(0, 0, 0, 0.3);
+    padding: 10px;
+    color: white;
+    width: 500px;
+}
+
+.input-wrapper button {
+    background: #e55c8a;
+    color: white;
+    border: 0;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+
 
